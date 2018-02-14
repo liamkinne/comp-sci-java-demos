@@ -1,0 +1,8 @@
+import java.applet.Applet; // applet class
+import java.awt.*; // graphics class
+
+public class PaintDemo {
+	public void paint (Graphics g) {
+		g.setFont(new Font("serif", Font.BOLD, 13))
+	}
+}

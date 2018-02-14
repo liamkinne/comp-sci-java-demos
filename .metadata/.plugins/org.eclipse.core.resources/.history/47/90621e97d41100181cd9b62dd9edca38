@@ -1,0 +1,6 @@
+import java.applet.Applet; // applet class
+import java.awt.*; // graphics class
+
+public class PaintDemo {
+
+}

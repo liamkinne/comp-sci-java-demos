@@ -1,0 +1,15 @@
+import java.applet.Applet;
+import java.awt.*;
+
+
+public class IntegerDemo extends Applet {
+	int n, m, sum, diff, prod, quot, rem
+	
+	public void init() {
+		
+	}
+	
+	public void paint (Graphics g) {
+		
+	}
+}

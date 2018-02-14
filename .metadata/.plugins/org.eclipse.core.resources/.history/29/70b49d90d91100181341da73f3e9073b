@@ -1,0 +1,15 @@
+import java.applet.Applet;
+import java.awt.*;
+
+public class ObjectDemo extends Applet {
+	Color color1, color2, color3;
+	Font font1;
+	
+	public void init() {
+		setBackground(Color.yellow);
+	}
+	
+	public void paint(Graphics g) {
+		
+	}
+}

@@ -1,0 +1,4 @@
+import java.applet.Applet // applet class
+public class PaintDemo {
+
+}

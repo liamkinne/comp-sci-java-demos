@@ -1,0 +1,22 @@
+import java.applet.Applet;
+import java.awt.*;
+
+
+public class IntegerDemo extends Applet {
+	int n, m, sum, diff, prod, quot, rem;
+	
+	public void init() {
+		n = 25;
+		m = 6;
+		sum = n + m;
+		diff = n - m;
+		prod = n * m;
+		quot = n / m;
+		rem = n % m;
+	}
+	
+	public void paint (Graphics g) {
+		g.drawString("THe original values are " + n + " and " + m, 25, 25)
+		g.drawString("The sum is " + sum, 25, 50);
+	}
+}
