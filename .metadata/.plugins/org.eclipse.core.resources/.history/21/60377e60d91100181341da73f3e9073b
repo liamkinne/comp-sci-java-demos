@@ -1,8 +1,0 @@
-import java.applet.Applet;
-import java.awt.*;
-
-public class ObjectDemo extends Applet {
-	public void init() {
-		setBackground(Color.yellow);
-	}
-}

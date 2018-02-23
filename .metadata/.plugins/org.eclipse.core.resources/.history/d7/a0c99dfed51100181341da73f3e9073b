@@ -1,7 +1,0 @@
-import java.applet.Applet;
-import java.awt.*;
-
-
-public class IntegerDemo extends Applet {
-
-}

@@ -1,7 +1,0 @@
-import vala.applet.Applet;
-import java.awt.*;
-
-
-public class IntegerDemo extends Applet {
-
-}
